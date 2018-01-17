@@ -10,6 +10,7 @@ h1 {
 
 /* Style the links inside the navigation bar */
 .topnav a {
+    font: Arial
     float: left;
     color: white;
     text-align: center;
