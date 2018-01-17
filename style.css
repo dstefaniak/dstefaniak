@@ -29,6 +29,6 @@ h1 {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-    background-color: #4C91AF;
+    background-color: #0084B4;
     color: white;
 }
