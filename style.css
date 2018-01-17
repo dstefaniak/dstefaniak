@@ -3,6 +3,10 @@ h1 {
     text-align: center;
 }
 
+p {font-family: 'Kalam', Arial;
+
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #d3d3d3;
