@@ -7,11 +7,13 @@ h1 {
 .topnav {
     background-color: #d3d3d3;
     overflow: hidden;
+    margin: 0;
+    padding: 0;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-    font-family: Arial
+    font-family: 'Jacques Francois', sans-serif, Arial;
     float: left;
     color: white;
     text-align: center;
