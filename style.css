@@ -17,6 +17,7 @@ p {font-family: 'Kalam', Arial;
 
 /* Style the links inside the navigation bar */
 .topnav a {
+    text-align: center;
     font-family: 'Kalam', Arial;
     float: left;
     color: white;
