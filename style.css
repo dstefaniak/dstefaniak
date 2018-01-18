@@ -3,7 +3,9 @@ h1 {
     text-align: center;
 }
 
-p {font-family: 'Kalam', Arial;
+p {
+  text-align: center;
+  font-family: 'Kalam', Arial;
 
 }
 
@@ -11,8 +13,8 @@ p {font-family: 'Kalam', Arial;
 .topnav {
     background-color: #d3d3d3;
     overflow: hidden;
-    margin: 50px;
-    padding: 100px;
+    margin: 100px;
+    padding: 0;
 }
 
 /* Style the links inside the navigation bar */
