@@ -11,8 +11,8 @@ p {font-family: 'Kalam', Arial;
 .topnav {
     background-color: #d3d3d3;
     overflow: hidden;
-    margin: 0;
-    padding: 0;
+    margin: 50px;
+    padding: 100px;
 }
 
 /* Style the links inside the navigation bar */
