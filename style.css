@@ -1,12 +1,12 @@
 h1 {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Mina', sans-serif;
     text-align: center;
     font-size: 40px;
 }
 
 p {
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Mina', sans-serif;
 
 }
 
@@ -21,7 +21,7 @@ p {
 /* Style the links inside the navigation bar */
 .topnav a {
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Mina', sans-serif;
     float: left;
     color: white;
     text-align: center;
