@@ -76,5 +76,9 @@ p {
 
 .fa-linkedin {
   background: #007bb5;
-  color: white;
+  color
 }
+
+.footer-list {
+      padding: 50px 0;
+      text-align: center;
