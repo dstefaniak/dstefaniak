@@ -1,12 +1,12 @@
 h1 {
-    font-family: 'Mina', sans-serif;
+    font-family: 'Josefin Slab', serif;
     text-align: center;
     font-size: 40px;
 }
 
 p {
   text-align: center;
-  font-family: 'Mina', sans-serif;
+  font-family: 'Josefin Slab', serif;
 
 }
 
@@ -21,7 +21,7 @@ p {
 /* Style the links inside the navigation bar */
 .topnav a {
     text-align: center;
-    font-family: 'Mina', sans-serif;
+    font-family: 'Josefin Slab', serif;
     float: left;
     color: white;
     text-align: center;
