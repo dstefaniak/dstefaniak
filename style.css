@@ -1,12 +1,12 @@
 h1 {
-    font-family: 'Kalam', Arial;
+    font-family: 'Roboto', sans-serif;
     text-align: center;
     font-size: 40px;
 }
 
 p {
   text-align: center;
-  font-family: 'Kalam', Arial;
+  font-family: 'Roboto', sans-serif;
 
 }
 
@@ -21,7 +21,7 @@ p {
 /* Style the links inside the navigation bar */
 .topnav a {
     text-align: center;
-    font-family: 'Kalam', Arial;
+    font-family: 'Roboto', sans-serif;
     float: left;
     color: white;
     text-align: center;
