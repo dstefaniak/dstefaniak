@@ -79,6 +79,10 @@ p {
   color: white;
 }
 
+.form{
+  font-family: 'Josefin Slab', serif;
+  align: center;
+}
 .footer-list {
       padding: 100px 0;
       text-align: center;
