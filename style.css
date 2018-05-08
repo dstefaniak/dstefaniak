@@ -82,6 +82,7 @@ p {
 .form{
   font-family: 'Josefin Slab', serif;
   text-align: center;
+  padding: 20px;
 }
 .footer-list {
       padding: 100px 0;
