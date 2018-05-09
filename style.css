@@ -97,6 +97,7 @@ p {
 
 .container{
   float: left;
+  object-fit: scale-down;
   max-height: 2px;
   max-width: 2px;
   width: auto;
