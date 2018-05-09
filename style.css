@@ -97,7 +97,6 @@ p {
 
 .container{
   float: left;
-  object-fit: scale-down;
   max-height: 2px;
   max-width: 2px;
   width: auto;
@@ -105,8 +104,6 @@ p {
   font-size: 10px;
   display: inline;
   text-align: center;
-
-  }
 
 }
 .footer-list {
