@@ -96,8 +96,9 @@ p {
 }
 
 .container{
-  max-height: 10%;
-  max-width: 10%;
+  float: left;
+  max-height: 2px;
+  max-width: 2px;
   text-align: center;
 
   }
