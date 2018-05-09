@@ -97,11 +97,11 @@ p {
 
 .container{
   float: left;
-  max-height: 2px;
-  max-width: 2px;
+  max-height: 1%;
+  max-width: 1%;
   width: auto;
   height: auto;
-  font-size: 10px;
+  font-size: 5px;
   display: inline;
   text-align: center;
 
