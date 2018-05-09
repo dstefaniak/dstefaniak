@@ -36,7 +36,7 @@ p {
 /* Change the color of links on hover */
 .topnav a:hover {
     background-color: #B6BEC1;
-    color: blue;
+    color: white;
     transition: all .3s ease-in;
 
 }
