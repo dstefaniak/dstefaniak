@@ -89,10 +89,18 @@ p {
 }
 
 .social-media-icons{
-  float: right;
   text-align: center;
   height: 20px;
   width: 20px;
+
+}
+
+.container{
+  max-height: 10%;
+  max-width: 10%;
+  text-align: center;
+
+  }
 
 }
 .footer-list {
