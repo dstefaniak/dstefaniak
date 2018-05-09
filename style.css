@@ -94,18 +94,6 @@ p {
   width: 20px;
 
 }
-
-.container{
-  float: left;
-  max-height: 1%;
-  max-width: 1%;
-  width: auto;
-  height: auto;
-  font-size: 5px;
-  display: inline;
-  text-align: center;
-
-}
 .footer-list {
       padding: 100px 0;
       text-align: center;
