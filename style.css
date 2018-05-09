@@ -87,6 +87,12 @@ p {
   padding: 20px;
   line-height: 1.6;
 }
+
+.social-media-icons{
+  height: 100px;
+  width: 100px;
+  
+}
 .footer-list {
       padding: 100px 0;
       text-align: center;
