@@ -89,9 +89,10 @@ p {
 }
 
 .social-media-icons{
-  text-align: center;
-  height: 5px;
-  width: 5px;
+  width: 100%;
+  height: auto;
+  left: 0px;
+  right: 0px;
 
 }
 .footer-list {
