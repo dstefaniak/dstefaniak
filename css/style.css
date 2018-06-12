@@ -107,4 +107,5 @@ p {
 .aboutimg{
   float: right;
   opacity: 0.5;
+  margin-right: 150px;
 }
