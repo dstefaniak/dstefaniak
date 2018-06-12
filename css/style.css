@@ -1,12 +1,12 @@
 h1 {
-    font-family: 'Josefin Slab', serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
     text-align: center;
     font-size: 40px;
 }
 
 p {
   text-align: left;
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
   margin: 25px 25px 25px 25px;
 
 
@@ -23,7 +23,7 @@ p {
 /* Style the links inside the navigation bar */
 .topnav a {
     text-align: center;
-    font-family: 'Josefin Slab', serif;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
     float: left;
     color: black;
     text-align: center;
@@ -82,7 +82,7 @@ p {
 }
 
 .form{
-  font-family: 'Josefin Slab', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
   text-align: center;
   padding: 20px;
   line-height: 1.6;
@@ -102,5 +102,5 @@ p {
 }
 
 .about {
-  float: left; 
+  float: left;
 }
